@@ -1,0 +1,38 @@
+# Build artifacts
+/target/
+/debug/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+log*.txt
+
+# Temp files
+*.ps1
+check_*.rs
+find_*.ps1
+capture*.ps1
+.playwright-mcp/
+
+# Local config (may contain sensitive data)
+.env
+config.json
+credentials.json
+settings.json
+
+# App data
+%APPDATA%/mmx-meter/
+
+# Claude memory
+MEMORY.md
+SPECS.md
