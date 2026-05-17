@@ -87,6 +87,8 @@ The widget appears embedded in your taskbar:
 - Weekly usage bars (bottom row)
 - Percentage and reset time
 
+![MiniMax Meter Widget](https://minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com/ccv2%2F2026-05-17%2FMiniMax-M2.7%2F2024092508790731553%2Fd200b6acee6c598d563821fda93702bacffb1aa79c5eaff2ae01c9e137582fcd..png?Expires=1779094449&OSSAccessKeyId=LTAI5tCpJNKCf5EkQHSuL9xg&Signature=pCk3ABBQJuK%2F9rGRJpsvWmxwHyc%3D)
+
 ## Configuration
 
 Settings are stored in `%APPDATA%\mmx-meter\settings.json`:
